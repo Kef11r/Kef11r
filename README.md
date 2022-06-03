@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kef11r
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python and HTML/CSS
+- 🌱 I’m currently learning Python and HTML/CSS/JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
